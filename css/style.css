@@ -558,7 +558,7 @@ transition: all 0.5s;
      flex-direction: column;
      align-items: center;
      position: absolute;
-     top:6.5vh;
+     top:4vh;
      right:0;
      height:99vh;
      background-color:white;
